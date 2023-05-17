@@ -5,7 +5,7 @@ public class atm {
         Scanner scan = new Scanner(System.in);
         int money = 0;
         int wh = 0;
-        while(wh < 5){
+        while(wh < 50){
          System.out.println(" 1 : Withdraw / 2 : Deposit / 3 : Money");
          int process = scan.nextInt();
          wh++;
