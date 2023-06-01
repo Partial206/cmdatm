@@ -1,3 +1,3 @@
 # ATM in CMD
-CMDATM but no have save enjoy :)
+ATM in CMD but no have save enjoy :)
 # 
